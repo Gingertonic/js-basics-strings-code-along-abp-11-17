@@ -1,3 +1,3 @@
-const currentUser = 'Beti Leti';
+let currentUser = 'Beti Leti';
 // const welcomeMessage = "Welcome to Flatbook, " + currentUser +"!";
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}``;
