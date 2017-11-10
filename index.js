@@ -1,2 +1,2 @@
 const currentUser = "Beti Leti";
-const welcomeMessage = "Beti Leti";// Write your code in this file!
+const welcomeMessage = "currentUser";// Write your code in this file!
